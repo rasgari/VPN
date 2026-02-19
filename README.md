@@ -18,3 +18,13 @@
 78.110.120.200
 
 ---
+
+
+reg.lmngtechteam.com
+apt.reg.lmngtechteam.com
+npm.reg.lmngtechteam.com
+nuget.reg.lmngtechteam.com
+pypi.reg.lmngtechteam.com
+
+---
+
