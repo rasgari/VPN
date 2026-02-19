@@ -20,11 +20,15 @@
 ---
 
 
-reg.lmngtechteam.com
-apt.reg.lmngtechteam.com
-npm.reg.lmngtechteam.com
-nuget.reg.lmngtechteam.com
-pypi.reg.lmngtechteam.com
+- reg.lmngtechteam.com
+
+- apt.reg.lmngtechteam.com
+
+- npm.reg.lmngtechteam.com
+
+- nuget.reg.lmngtechteam.com
+
+- pypi.reg.lmngtechteam.com
 
 ---
 
